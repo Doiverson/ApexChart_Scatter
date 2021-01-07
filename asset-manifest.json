@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ApexChart_Scatter/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ApexChart_Scatter/static/js/main.7c2a00cf.chunk.js",
+    "main.js.map": "/ApexChart_Scatter/static/js/main.7c2a00cf.chunk.js.map",
+    "runtime-main.js": "/ApexChart_Scatter/static/js/runtime-main.8bd0d58d.js",
+    "runtime-main.js.map": "/ApexChart_Scatter/static/js/runtime-main.8bd0d58d.js.map",
+    "static/js/2.6d2a3714.chunk.js": "/ApexChart_Scatter/static/js/2.6d2a3714.chunk.js",
+    "static/js/2.6d2a3714.chunk.js.map": "/ApexChart_Scatter/static/js/2.6d2a3714.chunk.js.map",
+    "static/js/3.174bc220.chunk.js": "/ApexChart_Scatter/static/js/3.174bc220.chunk.js",
+    "static/js/3.174bc220.chunk.js.map": "/ApexChart_Scatter/static/js/3.174bc220.chunk.js.map",
+    "index.html": "/ApexChart_Scatter/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ApexChart_Scatter/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6d2a3714.chunk.js.LICENSE.txt": "/ApexChart_Scatter/static/js/2.6d2a3714.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bd0d58d.js",
+    "static/js/2.6d2a3714.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7c2a00cf.chunk.js"
+  ]
+}
